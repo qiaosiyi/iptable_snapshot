@@ -1,5 +1,8 @@
 # iptable_snapshot
-the real flow entry in real routers
+A set of ip table flow entries in a AS core router
+
+snapshot TIME: 1 Jan 2019
+
 * Data Format
 
 
