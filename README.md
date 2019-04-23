@@ -2,10 +2,6 @@
 the real flow entry in real routers
 * Data Format
 
-;Once unpacked (with gunzip or gzip -d for example), these files can be used
-;directly with CAIDA's ASFinder and various CoralReef tools (such as the
-;t2_convert -R option).  For more information about these tools see
-;http://www.caida.org/tools/measurement/coralreef/
 
 The file format is line-oriented, with one prefix-AS mapping per line.  The
 tab-separated fields are
